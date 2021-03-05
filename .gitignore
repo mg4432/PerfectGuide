@@ -55,3 +55,12 @@ Codes/9장/9.2 아이템 기반 인접 이웃 협업 필터링 실습.ipynb
 Codes/9장/9.3 잠재 요인 기반 협업 필터링 실습.ipynb
 Codes/9장/9.4 파이썬 추천 시스템 패키지 Surprise 실습.ipynb
 *.csv
+*.txt
+human_activity/.DS_Store
+*.DS_Store
+__MACOSX/._UCI HAR Dataset
+__MACOSX/UCI HAR Dataset/._test
+__MACOSX/UCI HAR Dataset/._train
+__MACOSX/UCI HAR Dataset/test/._Inertial Signals
+__MACOSX/UCI HAR Dataset/train/._Inertial Signals
+*.dot
