@@ -64,3 +64,4 @@ __MACOSX/UCI HAR Dataset/._train
 __MACOSX/UCI HAR Dataset/test/._Inertial Signals
 __MACOSX/UCI HAR Dataset/train/._Inertial Signals
 *.dot
+*.json
